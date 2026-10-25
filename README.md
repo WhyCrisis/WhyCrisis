@@ -50,3 +50,4 @@ My primary goal is to become an AQA engineer and join the QC team. And now i'm s
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XsXK8bzE)
 
 [![GitHub Stats](https://vercel.app)](https://github.com/WhyCrisis)
+
